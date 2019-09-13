@@ -29,10 +29,21 @@ Normal paragraph text.
 
 **Bold**
 
+~~strike through~~
+
 > Blockquote
 
-Horizontal Rule
+Horizontal Rule:  
 
 ---
 
-[Link](http://example.com)
+[Link](https://simpledev.io/)
+
+Picture:  
+![Picture](https://avatars3.githubusercontent.com/u/53956173?s=200&amp;v=4)
+
+Picture with Hyperlink:  
+[![Picture](https://avatars3.githubusercontent.com/u/53956173?s=200&amp;v=4)](https://simpledev.io/)
+
+- [ ] tasks (github MD only)
+- [x] completed task (github MD only)
