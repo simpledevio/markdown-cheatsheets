@@ -49,14 +49,12 @@ Heading 2
 2. List
 3. List
 
-
-    <!-- Code block -->
-    <h1>Sample heading</h1>
-
-
 _Italic text 2_
 
 __Bold text 2__
+
+    // A sample code block
+    console.log("Sample code block");
 
 [Link][1]
 
