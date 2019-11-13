@@ -1,4 +1,3 @@
-<!-- Use 1 to 6 \# symbols at the beginning of a line to create headings.-->
 <!-- Comment -->
 
 # Heading 1
@@ -25,14 +24,44 @@ Normal paragraph text.
 <h1>Sample heading</h1>
 ```
 
-*Italic*
+*Italic text 1*
 
-**Bold**
+**Bold text 1**
 
-> Blockquote
+> Blockquote text.
+
+[Link](http://example.com)
 
 Horizontal Rule
 
 ---
 
-[Link](http://example.com)
+Heading 1
+===
+Heading 2
+---
+
+- List
+- List
+- List
+
+1. List
+2. List
+3. List
+
+
+    <!-- Code block -->
+    <h1>Sample heading</h1>
+
+
+_Italic text 2_
+
+__Bold text 2__
+
+[Link][1]
+
+Horizontal Rule
+
+***
+
+[1]:http://example.com
