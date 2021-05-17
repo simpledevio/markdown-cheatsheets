@@ -36,6 +36,22 @@ Horizontal Rule
 
 ---
 
+~~Strikethrough~~
+
+```javascript
+function doSomething() {
+  // Write code here
+}
+```
+
+- [ ] incomplete task
+- [x] completed task
+
+First Header | Second Header
+------------ | -------------
+cell 1 | cell 2
+cell 3 | cell 4
+
 Heading 1
 ===
 Heading 2
